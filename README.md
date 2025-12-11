@@ -1,8 +1,8 @@
-#TouchGfx NumericKeypad CustomContainer:
+# TouchGfx NumericKeypad CustomContainer:
 
 ![image](https://github.com/naga1972/TouchGfx_NUMERIC_KEYPAD_CONTAINER/blob/main/numeric_keypd.png)
 
-##Steps to use it in your TouchGFX project:
+## Steps to use it in your TouchGFX project:
 1.	Import the CustomContainer package “ModelKeypadCntnr1.tpkg” in your TouchGFX project (Edit->import->Custom Container)
 2.	Goto your CustomContainer  components and pick the ModelKeypadCntr1 and place that on your Screen ( we used Screen2 in this example), preferably under modalWindow.
 3.	Then Modify your Screen2View.c and Scren2View.h files as shown in the attached files
