@@ -1,6 +1,6 @@
 TouchGfx NumericKeypad CustomContainer:
  [ReadMe.doc.docx](https://github.com/user-attachments/files/24112331/ReadMe.doc.docx)
-![image](https:////github.com/user-attachments/files/24112331/numeric_keypd.PNG)
+![image](https://github.com/naga1972/TouchGfx_NUMERIC_KEYPAD_CONTAINER/blob/main/numeric_keypd.png)
 
 Steps to use it in your TouchGFX project:
 1.	Import the CustomContainer package “ModelKeypadCntnr1.tpkg” in your TouchGFX project (Edit->import->Custom Container)
